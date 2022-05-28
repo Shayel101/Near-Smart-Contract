@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/inzamam/Documents/Contract_Rust/contract/target/wasm32-unknown-unknown/debug/build/typenum-38574eb9f348bd06/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/inzamam/Documents/Contract_Rust/contract/target/wasm32-unknown-unknown/debug/build/typenum-38574eb9f348bd06/out/op.rs
